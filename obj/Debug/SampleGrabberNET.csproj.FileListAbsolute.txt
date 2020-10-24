@@ -1,0 +1,11 @@
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\bin\Debug\SampleGrabberNET.exe
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\bin\Debug\SampleGrabberNET.pdb
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\bin\Debug\DShowNET.dll
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\bin\Debug\DShowNET.pdb
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\obj\Debug\SampleGrabberNET.csprojAssemblyReference.cache
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\obj\Debug\SampleGrabberNET.DeviceSelector.resources
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\obj\Debug\SampleGrabberNET.MainForm.resources
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\obj\Debug\SampleGrabberNET.csproj.GenerateResource.cache
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\obj\Debug\SampleGrabberNET.csproj.CopyComplete
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\obj\Debug\SampleGrabberNET.exe
+C:\Users\Vuh\Downloads\directshownet\DirectShow\SampleGrabberNET\obj\Debug\SampleGrabberNET.pdb
